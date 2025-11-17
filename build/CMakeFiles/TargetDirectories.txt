@@ -1,0 +1,5 @@
+/home/qiang/Documents/mapping-open-source/ceres_demo/build/CMakeFiles/helloworld.dir
+/home/qiang/Documents/mapping-open-source/ceres_demo/build/CMakeFiles/helloworld_analytic.dir
+/home/qiang/Documents/mapping-open-source/ceres_demo/build/CMakeFiles/powell.dir
+/home/qiang/Documents/mapping-open-source/ceres_demo/build/CMakeFiles/edit_cache.dir
+/home/qiang/Documents/mapping-open-source/ceres_demo/build/CMakeFiles/rebuild_cache.dir
